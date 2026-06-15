@@ -30,7 +30,7 @@
 - [TRACE_WATERFALL_EXPLANATION]: Trace waterfall shows parent span `run` calling sub-spans `retrieve` and `generate`. During the rag_slow incident, `retrieve` span takes 2500ms while `generate` takes only 150ms.
 
 ### 3.2 Dashboard & SLOs
-- [DASHBOARD_6_PANELS_SCREENSHOT]: assets/Dashboard.PNG
+- [DASHBOARD_6_PANELS_SCREENSHOT]: assets/dashboard.PNG
 - [SLO_TABLE]:
 | SLI | Target | Window | Current Value |
 |---|---:|---|---:|
